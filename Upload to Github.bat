@@ -1,7 +1,7 @@
 @echo off
 
 REM Ссылка на GitHub репозиторий
-set REPO_URL=https://github.com/ruslan108design/ck1new.git 
+set REPO_URL=https://github.com/ruslan108design/ck1new.git
 
 git remote remove origin
 git init
